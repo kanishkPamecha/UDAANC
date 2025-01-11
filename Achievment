@@ -5,12 +5,12 @@
     "description": "In 2024, the Udaan Club at LNMIT Jaipur clinched 3rd position, highlighting their dedication and exceptional teamwork.",
     "img": "https://raw.githubusercontent.com/Udaanaeromodelling/udaan/main/uploads/lnmiit.png"
   },
- // {
-   // "title": "1st, 2nd & 3rd Consolation - Abhivyakti",
-    //"year": 2024,
-    //"description": "In 2024, the Udaan Club at Abhivyakti secured 1st, 2nd, and 3rd positions, along with a consolation prize for their outstanding performance.",
-    //"img": "https://raw.githubusercontent.com/Udaanaeromodelling/udaan/main/uploads/Abhivyakti%20.png"
-  //},
+  {
+   "title": "1st, 2nd & 3rd Consolation - Abhivyakti",
+    "year": 2024,
+    "description": "In 2024, the Udaan Club at Abhivyakti secured 1st, 2nd, and 3rd positions, along with a consolation prize for their outstanding performance.",
+    "img": "https://raw.githubusercontent.com/Udaanaeromodelling/udaan/main/uploads/Abhivyakti%20.png"
+  },
   {
     "title": "3rd Manipal University",
     "year": 2023,
